@@ -1,0 +1,2 @@
+# MobHunt
+Configs for monhunt
